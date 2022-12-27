@@ -1,5 +1,5 @@
 # l2
-# Modificacion por tercera vez 
+# Modificacion por ter vez 
 Implementation of a Simple Calculator with the next operations:
 * Add
 * Minus

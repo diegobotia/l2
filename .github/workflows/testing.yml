@@ -23,7 +23,7 @@ jobs:
       - name: tests
         run: npm test
       - name: Test and coverage
-        run: yarn jest --coverage
+        run: npm run cover
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
         env:
